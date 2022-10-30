@@ -15,10 +15,10 @@ keywords = ["bevy"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = "0.8"
+bevy = "0.8.1"
 
 [dev-dependencies]
-bevy_flycam = "0.8"
+bevy_flycam = "0.8.1"
 
 # [patch.crates-io]
 # bevy = { path = "../bevy" }
